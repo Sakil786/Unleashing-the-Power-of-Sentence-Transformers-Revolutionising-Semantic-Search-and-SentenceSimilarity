@@ -12,6 +12,6 @@ Sentence transformers are deep learning models that are specifically designed to
 Traditional NLP models often struggle with understanding the meaning of text, especially when dealing with complex or ambiguous sentences. However, sentence transformers are specifically designed to capture the semantic meaning of a sentence, allowing them to accurately compare and match text based on their meaning, rather than just keywords.
 
 # How do Sentence Transformers Work?
-
+![Sentence Transformer Architectural Diagram](architectur_sentence_transformer.png)
 
 
