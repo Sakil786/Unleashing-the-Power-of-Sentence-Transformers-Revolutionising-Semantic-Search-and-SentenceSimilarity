@@ -28,5 +28,6 @@ The embeddings are passed  through a pooling layer to get a single fixed-length 
 When finetuning  the sentence transformer model, it is important to keep the following two considerations in mind :
 * Understand your intended task and prepare the data properly.
 * Learn the various loss functions and how to apply them to the dataset.
+# Various forms of dataset for training Sentence Transformers model
 
-
+* Scenario 1:The example includes two sentences with a label indicating how similar they are. The label may be a float or an integer.
