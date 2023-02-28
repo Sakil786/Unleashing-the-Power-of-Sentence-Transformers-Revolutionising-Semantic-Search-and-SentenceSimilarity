@@ -14,4 +14,19 @@ Traditional NLP models often struggle with understanding the meaning of text, es
 # How do Sentence Transformers Work?
 ![Sentence Transformer Architectural Diagram](architectur_sentence_transformer.png)
 
+# Layer 1 : 
+In this layer , the input text is passed through a pre-trained Transformer model.I have used **xlm-roberta-base** pretrained model .
+
+# Layer 2:
+Contextualized word embeddings for all input tokens are calculated.
+
+# Layer 3: 
+The embeddings are passed  through a pooling layer to get a single fixed-length embedding for all the text. There are various pooling options, the most basic of which is mean-pooling.We basically average every contextualised word embedding that  **xlm-roberta-base** provides.
+
+# Fine tuning Sentence Transformers model 
+
+When finetuning  the sentence transformer model, it is important to keep the following two considerations in mind :
+* Understand your intended task and prepare the data properly.
+* Learn the various loss functions and how to apply them to the dataset.
+
 
