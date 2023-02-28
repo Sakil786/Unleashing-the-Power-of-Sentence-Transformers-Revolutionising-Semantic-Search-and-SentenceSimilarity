@@ -31,5 +31,4 @@ When finetuning  the sentence transformer model, it is important to keep the fol
 # Various forms of dataset for training Sentence Transformers model
 
 * Scenario 1:
-*
 The example includes two sentences with a label indicating how similar they are. The label may be a float or an integer.You can use  **ContrastiveLoss or SoftmaxLoss** if the label format is integer and **CosineSimilarityLoss** if the label format is float.
