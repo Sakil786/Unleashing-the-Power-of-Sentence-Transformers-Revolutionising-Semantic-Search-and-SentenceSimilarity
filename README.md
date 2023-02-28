@@ -32,3 +32,5 @@ When finetuning  the sentence transformer model, it is important to keep the fol
 
 * Scenario 1:
 The example includes two sentences with a label indicating how similar they are. The label may be a float or an integer.You can use  **ContrastiveLoss or SoftmaxLoss** if the label format is integer and **CosineSimilarityLoss** if the label format is float.
+
+![Scenario 1](scenario_1_dataset.PNG)
