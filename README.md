@@ -36,4 +36,5 @@ The example includes two sentences with a label indicating how similar they are.
 ![Scenario 1](scenario_1_dataset.PNG)
 
 * Scenario 2:
-The example includes a pair of positive (similar) sentences without a label.The examples are pairs of paraphrases, pairs of full texts and their summaries, pairs of duplicate questions, pairs of (query, response), or pairs of (source_language, target_language).You can use **MultipleNegativesRankingLoss** loss function for this scenario.
+The example includes a pair of positive (similar) sentences without a label.The examples are pairs of paraphrases, pairs of full texts and their summaries, pairs of duplicate questions, pairs of (query, response), or pairs of (source_language, target_language).You can use **MultipleNegativesRankingLoss** loss function for this scenario.Below is the example for the scenario 2. The source language is english and the target language is French. .
+
