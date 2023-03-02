@@ -76,4 +76,4 @@ For semantic search, sentence transformers models perform significantly better t
 
 # An Example for Semantic Textual Similarity:
 
-![Semantic Textual Similarity](semantic_similarity.PNG).
+![Semantic Textual Similarity](semantic_similarity.png).
