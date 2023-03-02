@@ -43,19 +43,19 @@ The example includes a pair of positive (similar) sentences without a label.The 
 * Scenario 3
 The example includes a sentence with an integer label. By using loss functions, this data format can be easily converted into three sentences (triplets), the first of which serves as a "anchor," the second as a "positive" of the same class as the anchor, and the third as a "negative" of a different class.Please have a look into the following example:
 
-Sentence: "I love playing football."
+  Sentence: "I love playing football."
 
-Label: 1
+  Label: 1
 
-To convert this into triplets, we need to create two additional sentences - one that is a positive example of the same class as the anchor sentence, and another that is a negative example of a different class. Let's say we have two additional sentences:
+  To convert this into triplets, we need to create two additional sentences - one that is a positive example of the same class as the anchor sentence, and another that   is a negative example of a different class. Let's say we have two additional sentences:
 
-Positive Sentence: "football is my favorite sport."
+  Positive Sentence: "football is my favorite sport."
 
-Negative Sentence: "I don't enjoy playing basketball."
+  Negative Sentence: "I don't enjoy playing basketball."
 
-Now we can create the triplets as follows:
+  Now we can create the triplets as follows:
 
-Anchor Sentence: "I love playing football."
+  Anchor Sentence: "I love playing football."
 
 Positive Sentence: "football is my favorite sport."
 
