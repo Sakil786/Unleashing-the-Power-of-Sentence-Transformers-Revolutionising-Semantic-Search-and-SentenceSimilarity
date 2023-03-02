@@ -65,4 +65,7 @@ The example includes a sentence with an integer label. By using loss functions, 
 
 ![Scenario 3](scenario3_dataset.PNG).
 
-* Scenario 4: The example included a triplet (anchor, positive, negative) without classes or labels for the sentences.Quora Triplets dataset is an example for this scenario.
+* Scenario 4: The example included a triplet (anchor, positive, negative) without classes or labels for the sentences.You can use **TripletLoss** loss function for this scenario.Quora Triplets dataset is an example for this scenario.The sample data is shown below:
+
+![Scenario 4](scenario4_dataset.PNG).
+
