@@ -60,5 +60,7 @@ The example includes a sentence with an integer label. By using loss functions, 
   Positive Sentence: "football is my favorite sport."
 
   Negative Sentence: "I don't enjoy playing basketball."
+  
+  The Text REtrieval Conference (TREC) Question Classification dataset is an example for this scenario.You can use **Batchhardtripletloss** loss function for this scenario. The sample data is shown below.
 
 ![Scenario 3](scenario3_dataset.PNG).
