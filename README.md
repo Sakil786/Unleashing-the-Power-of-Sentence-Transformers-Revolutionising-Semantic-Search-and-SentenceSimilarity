@@ -75,3 +75,5 @@ The example includes a sentence with an integer label. By using loss functions, 
 For semantic search, sentence transformers models perform significantly better than basic transformers models.If your task is classification, the sentence transformer does not perform well.
 
 # An Example for Semantic Textual Similarity:
+
+![Semantic Textual Similarity](semantic_similarity.PNG).
