@@ -69,3 +69,5 @@ The example includes a sentence with an integer label. By using loss functions, 
 
 ![Scenario 4](scenario4_dataset.PNG).
 
+# Limitation of Sentence Transformers:
+For semantic search, sentence transformers models perform significantly better than basic transformers models.If your task is classification, the sentence transformer does not perform well.
