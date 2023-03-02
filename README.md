@@ -57,7 +57,7 @@ The example includes a sentence with an integer label. By using loss functions, 
 
   Anchor Sentence: "I love playing football."
 
-Positive Sentence: "football is my favorite sport."
+  Positive Sentence: "football is my favorite sport."
 
-Negative Sentence: "I don't enjoy playing basketball."
+  Negative Sentence: "I don't enjoy playing basketball."
 
