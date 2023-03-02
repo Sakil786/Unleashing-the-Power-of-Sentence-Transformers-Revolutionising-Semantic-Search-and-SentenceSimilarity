@@ -1,7 +1,7 @@
 # Unleashing-the-Power-of-Sentence-Transformers-Revolutionising-Semantic-Search-and-Sentence-Similar
 Unleashing the Power of Sentence Transformers: Revolutionising Semantic Search and Sentence Similarity
 
-                                          # PART-I
+# PART I
 
 # Introduction
 As the amount of data available on the internet continues to grow, it becomes increasingly challenging to extract relevant information from the vast amount of unstructured data. Traditional keyword-based search algorithms often fail to produce accurate and relevant results, as they do not take into account the context and meaning of the text. However, recent advancements in Natural Language Processing (NLP) have paved the way for new techniques that can effectively capture the meaning of text, including the use of sentence transformers for semantic search and sentence similarity.
@@ -73,3 +73,5 @@ The example includes a sentence with an integer label. By using loss functions, 
 
 # Limitation of Sentence Transformers:
 For semantic search, sentence transformers models perform significantly better than basic transformers models.If your task is classification, the sentence transformer does not perform well.
+
+# An Example for Semantic Textual Similarity:
