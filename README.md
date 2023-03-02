@@ -61,3 +61,4 @@ The example includes a sentence with an integer label. By using loss functions, 
 
   Negative Sentence: "I don't enjoy playing basketball."
 
+![Scenario 3](scenario3_dataset.PNG).
